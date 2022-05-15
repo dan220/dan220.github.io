@@ -1,1 +1,1 @@
-# dan220.github.io
+Repo with simple website following mozilla docs course
